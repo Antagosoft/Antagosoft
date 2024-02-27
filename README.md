@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Antagosoft dev team](https://github.com/Antagosoft/Antagosoft/blob/master/dev-team.png?raw=true)
 <!--
 **Antagosoft/Antagosoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
