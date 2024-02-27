@@ -2,8 +2,7 @@
 
 ![Antagosoft dev team](https://github.com/Antagosoft/Antagosoft/blob/main/dev-team.png?raw=true)
 
-![javascript](https://careers.antagosoft.com/img/content/career-our-services-img-1.23606526451a22f8cf13a29345dbe666.svg)
-![php](https://careers.antagosoft.com/img/content/career-our-services-img-5.a6f8de1b5006ea4d06581ae18c337724.svg)
+
 <!--
 **Antagosoft/Antagosoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
